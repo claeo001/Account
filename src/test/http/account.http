@@ -1,0 +1,8 @@
+### create account
+POST http://localhost:8080/accout
+Content-type: application/json
+
+{
+    "id": 999,
+    "initialBalance": 10000
+}
